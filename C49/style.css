@@ -1,0 +1,37 @@
+
+        h1{
+            color:blue
+        }
+        h3{
+color:greenyellow
+
+        }
+        *{
+            border :solid seagreen;
+        }
+   .header{
+background-color: aquamarine;
+display:flex;
+justify-content: space-between;
+
+   }
+   .grid{
+
+display :flex; 
+flex-wrap: wrap;  
+justify-content: space-evenly; 
+   }
+   .footer{
+display :flex;
+justify-content: space-evenly;
+
+   }
+   h3,p{
+
+text-align: center;
+
+   }
+   body{
+background-color: wheat;
+
+   }
